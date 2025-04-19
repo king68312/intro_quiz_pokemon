@@ -1,0 +1,2 @@
+# intro_quiz_pokemon
+ポケモンのbgmのイントロを元に当てる
